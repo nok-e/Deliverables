@@ -2,7 +2,7 @@ package com_nok_e_janken_game;
 
 /**
  * 掛金の初期値、残高を定義するクラス
- * @author 野田健介
+ * @author nok-e
  *
  */
 public class Chip {
